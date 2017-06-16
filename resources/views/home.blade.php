@@ -8,7 +8,9 @@
                 <div class="panel-heading">Dashboard</div>
 
                 @section('content')
-                    <example></example>
+
+
+
                 @endsection
                 <div class="panel-body">
                     You are logged in!
